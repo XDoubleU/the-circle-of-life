@@ -4,7 +4,7 @@
 
 A radial WearOS watchface.
 
-[![GitHub](https://img.shields.io/github/license/XDoubleU/code-o-clock?style=flat-square)](https://github.com/XDoubleU/code-o-clock/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/XDoubleU/the-circle-of-life?style=flat-square)](https://github.com/XDoubleU/the-circle-of-life/blob/master/LICENSE)
 
 
 ## Installation & Usage
