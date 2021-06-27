@@ -1,4 +1,4 @@
-# The Circle Of Life
+# WIP - The Circle Of Life
 
 ![The Circle Of Life](https://github.com/XDoubleU/code-o-clock/blob/master/app/src/main/res/drawable-nodpi/preview.png)
 
